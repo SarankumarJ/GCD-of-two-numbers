@@ -9,16 +9,16 @@ To write a program to find the GCD of two numbers using function.
 
 ## Algorithm
 
-Step 1:
+### Step 1:
 Define a function.
 
-Step 2: 
+### Step 2: 
 Get the two numbers from the user.
 
-Step 3: 
+### Step 3: 
 Compare the two values, to find the smaller number.
 
-Step 4: 
+### Step 4: 
 Use for() and if() loop to find the GCD of the two numbers.
 
 ## Program:
