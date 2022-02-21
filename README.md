@@ -47,3 +47,4 @@ def gcd():
 
 ## Result:
 Thus the program to find the GCD of two numbers is written and verified using python programming.
+Sucessfully Finished
